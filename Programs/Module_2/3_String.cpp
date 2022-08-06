@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+
+{
+	char s[6]= "Hello";
+	printf("%s",s);
+}
+/*
+{
+    char name[20];
+    printf("Enter name: ");
+    scanf("%s", &name);
+    printf("Your name is %s.", name);
+    return 0;
+}
+*/
